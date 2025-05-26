@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250" alt="girl coding gif" />
+  <img src="./git.gif" width="350" alt="girl coding gif" />
 </div>
 
 ---
