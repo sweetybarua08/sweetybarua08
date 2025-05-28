@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Sweety Barua Aria </h1>
 
 <p align="center">
-  <em>Full Stack Software Developer | Database Practitioner | AI Enthusiast</em><br>
+  <em>Full Stack Software Developer | Database Artisan | AI Enthusiast</em><br>
   <em>FinTech 💰 | AdTech 📊 | EdTech 📚</em>
 </p>
 
