@@ -13,7 +13,7 @@
 
 ### 👩‍💻 About Me
 
-Backend Developer with 4+ years of experience building scalable web applications. Worked across SaaS, edTech, adTech, and finTech sectors. Skilled in API development, database design, and data analysis. Passionate about writing clean, maintainable code and delivering solutions that drive business value.
+Full Stack Software Developer with 4+ years of experience building scalable web applications. Worked across SaaS, edTech, adTech, and finTech sectors. Skilled in API development, database design, and data analysis. Passionate about writing clean, maintainable code and delivering solutions that drive business value.
 
 ---
 
